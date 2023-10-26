@@ -15,10 +15,8 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-<<<<<<< HEAD
+
 
 .idea
 **/target/
 **/.gitignore
-=======
->>>>>>> 64cd1aa574e28e72cdff6e2eaa9aedf9d4a35272
